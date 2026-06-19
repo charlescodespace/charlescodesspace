@@ -121,17 +121,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charlescodespace&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=charlescodespace&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=charlescodespace&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=charlescodespace&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlescodespace&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlescodespace&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000&layout=compact" alt="Most Used Languages" />
 </p>
 
 ---
 
 <p align="center">
   <a href="https://visitcount.itsvg.in" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=charlescodespace&style=flat-square&label=Profile%20Views&color=000000&labelColor=000000&text_color=ffffff" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=charlescodespace&style=flat-square&label=PROFILE%20VIEWS&color=000000" alt="Profile Views" />
   </a>
 </p>
