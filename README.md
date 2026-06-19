@@ -66,49 +66,6 @@
           <p>▶ 🔎 <strong>Features</strong></p>
         </div>
       </td>
-
-      <td align="center" valign="top" width="25%">
-        <div>
-          <p><strong>🚧 Coming Soon</strong></p>
-          <p><strong>Project Title</strong></p>
-          <p>Add your next project here.</p>
-          <p>
-            <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-            <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-          </p>
-          <p>⭐ <strong>0</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🍴 <strong>0</strong></p>
-          <p>▶ ✨ <strong>Features</strong></p>
-        </div>
-      </td>
-
-      <td align="center" valign="top" width="25%">
-        <div>
-          <p><strong>🚧 Coming Soon</strong></p>
-          <p><strong>Project Title</strong></p>
-          <p>Add your next project here.</p>
-          <p>
-            <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-            <img src="https://img.shields.io/badge/THREADING-FFB000?style=for-the-badge" alt="Threading" />
-          </p>
-          <p>⭐ <strong>0</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🍴 <strong>0</strong></p>
-          <p>▶ ⚡ <strong>Attack Vectors</strong></p>
-        </div>
-      </td>
-
-      <td align="center" valign="top" width="25%">
-        <div>
-          <p><strong>🚧 Coming Soon</strong></p>
-          <p><strong>Project Title</strong></p>
-          <p>Add your next project here.</p>
-          <p>
-            <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-            <img src="https://img.shields.io/badge/RICH-FFD700?style=for-the-badge" alt="Rich" />
-          </p>
-          <p>⭐ <strong>0</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🍴 <strong>0</strong></p>
-          <p>▶ 🛠 <strong>Modules</strong></p>
-        </div>
-      </td>
-    </tr>
   </table>
 
   <br />
