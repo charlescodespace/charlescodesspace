@@ -52,15 +52,24 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 </p>
+
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=charlescodespace&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=charlescodespace&theme=dark&hide_border=true" alt="GitHub streak stats" />
-  <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=charlescodespace&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=charlescodespace&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=charlescodespace&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=charlescodespace&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
-[![](https://komarev.com/ghpvc/?username=charlescodespace&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=charlescodespace&icon=0&color=0" alt="Profile Views" />
+  </a>
+</p>
