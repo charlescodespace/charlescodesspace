@@ -125,7 +125,7 @@
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=charlescodespace&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlescodespace&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlescodespace&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000&layout=compact" alt="Most Used Languages" />
 </p>
 
 ---
