@@ -1,4 +1,3 @@
-# Charles
 
 <div align="center">
 
@@ -35,21 +34,6 @@ Building scalable applications, AI-powered solutions, and modern web experiences
 <img src="./charles_terminal.svg" width="750" alt="Charles Terminal"/>
 
 </div>
-
-```bash
-> whoami
-
-Name      : Charles
-Role      : Full Stack Developer
-Education : B.E Information Science & Engineering
-Focus     : Software Development & AI
-Languages : Java, Python, JavaScript
-Database  : MySQL, MongoDB
-Goal      : Build Impactful Products
-Status    : Learning • Building • Growing
-```
-
----
 
 <div align="center">
 
