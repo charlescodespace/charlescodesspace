@@ -131,7 +131,7 @@
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=charlescodespace&icon=0&color=0" alt="Profile Views" />
+  <a href="https://visitcount.itsvg.in" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=charlescodespace&style=flat-square&label=Profile%20Views&color=000000&labelColor=000000&text_color=ffffff" alt="Profile Views" />
   </a>
 </p>
