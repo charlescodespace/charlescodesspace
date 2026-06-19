@@ -1,16 +1,18 @@
 <div align="center">
 
+<img src="./charles_banner.gif" width="100%" />
+
 # CHARLES
 
 ### Full Stack Developer • Software Engineer • Builder
 
-<img src="./charles_banner.gif" width="100%" alt="Charles Banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Modern+Software;Full+Stack+Developer;Backend+%26+Cloud+Enthusiast;Turning+Ideas+Into+Products;Code+%E2%80%A2+Build+%E2%80%A2+Innovate+%E2%80%A2+Repeat" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Software;Turning+Ideas+Into+Products;Full+Stack+Developer+%7C+Software+Engineer;Code+%E2%80%A2+Build+%E2%80%A2+Innovate+%E2%80%A2+Repeat" />
+> Turning ideas into scalable products and meaningful digital experiences.
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=charlescodespace&label=Profile+Views&color=58A6FF&style=flat-square"/>
 
@@ -20,21 +22,46 @@
 
 ## 👨‍💻 About Me
 
-```bash
-charles@developer:~$
+<div align="center">
 
-Role      : Full Stack Developer
-Location  : Bengaluru, India
-Education : Information Science & Engineering
-Focus      : Web Development & Software Engineering
-Learning   : Cloud • System Design • AI
-Motto      : Code. Build. Improve. Repeat.
+```console
+charles@developer:~$ whoami
+
+Charles
+
+charles@developer:~$ cat profile.txt
+
+Role      :: Full Stack Developer
+Location  :: Bengaluru, India
+Focus     :: Web Development & Software Engineering
+Learning  :: Cloud • System Design • AI
+Passion   :: Building useful products
+Motto     :: Code. Build. Improve. Repeat.
+
+charles@developer:~$ ls skills/
+
+Java  Python  React  FastAPI
+NodeJS  PostgreSQL  Docker
+AWS  Git  Linux
+
+charles@developer:~$ echo $STATUS
+
+Building the future, one commit at a time 🚀
+
+charles@developer:~$ █
 ```
 
-I enjoy transforming ideas into useful products, crafting clean user experiences,
-and building scalable software solutions that solve real-world problems.
+</div>
 
-Every project is an opportunity to learn, innovate, and grow.
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,html,css,react,nodejs,django,fastapi,mysql,postgres,mongodb,docker,kubernetes,aws,gcp,git,github,vscode,postman&perline=7"/>
+
+</div>
 
 ---
 
@@ -44,7 +71,7 @@ Every project is an opportunity to learn, innovate, and grow.
 
 ### 🔐 IPsec Automation Platform
 
-Cross-platform IPsec policy management platform featuring:
+Cross-platform IPsec policy management solution featuring:
 
 ✔ Python Endpoint Agent
 
@@ -58,8 +85,9 @@ Cross-platform IPsec policy management platform featuring:
 
 <br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 <br><br>
 
@@ -71,43 +99,11 @@ Cross-platform IPsec policy management platform featuring:
 
 ---
 
-## ⚡ Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp"/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react"/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,django,fastapi"/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=charlescodespace&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=charlescodespace&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=charlescodespace&theme=tokyonight&hide_border=true"/>
 
@@ -117,36 +113,13 @@ Cross-platform IPsec policy management platform featuring:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlescodespace&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlescodespace&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=charlescodespace&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```text
-▸ Full Stack Development
-▸ Backend Architecture
-▸ Cloud Technologies
-▸ System Design
-▸ Artificial Intelligence
-▸ Open Source Contributions
-```
-
----
-
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <div align="center">
 
@@ -154,9 +127,13 @@ Cross-platform IPsec policy management platform featuring:
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://instagram.com/ft__charlie">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="mailto:charlespinto2004s@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -168,12 +145,16 @@ Cross-platform IPsec policy management platform featuring:
 
 <div align="center">
 
-### Building software that solves real-world problems
+### 💭 Philosophy
 
 ```text
 Frontend Precision • Backend Logic • Continuous Growth
 ```
 
 ⚡ Execute • 💡 Innovate • 🔁 Repeat
+
+<br>
+
+> Building software that solves real-world problems.
 
 </div>
