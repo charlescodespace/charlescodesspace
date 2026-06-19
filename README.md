@@ -1,8 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Charles 👋</h1>
-  <p>
-    <samp>Full stack developer focused on clean builds, practical systems, and polished experiences.</samp>
-  </p>
+  <p><samp>Full stack developer focused on clean builds, practical systems, and polished experiences.</samp></p>
 </div>
 
 <p align="center">
@@ -20,14 +18,10 @@
 </p>
 
 <div align="center">
-
-**`💻 Full Stack · ⚙️ Software Dev · 🚀 Builder`**
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=charlescodespace&label=Profile%20Views&color=22d3ee&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/charlescodespace?label=Followers&style=for-the-badge&color=22d3ee" alt="GitHub followers" />
-
+  <strong>💻 Full Stack · ⚙️ Software Dev · 🚀 Builder</strong>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=charlescodespace&label=Profile%20Views&color=22d3ee&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/charlescodespace?label=Followers&style=for-the-badge&color=22d3ee" alt="GitHub followers" />
 </div>
 
 ---
@@ -46,9 +40,7 @@
 </p>
 
 <p align="center">
-  <samp>
-    I enjoy turning ideas into useful products, refining the details, and shipping work that feels solid.
-  </samp>
+  <samp>I enjoy turning ideas into useful products, refining the details, and shipping work that feels solid.</samp>
 </p>
 
 ---
@@ -56,78 +48,71 @@
 ## 🛠 Featured Projects
 
 <div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="top" width="25%">
+        <div>
+          <p><strong>🔐 <a href="https://github.com/charlescodespace/ip_sec">ip_sec</a></strong></p>
+          <p><strong>Cross-Platform IPsec Automation</strong></p>
+          <p>
+            Centralized IPsec policy management with a Python endpoint agent, FastAPI backend,
+            vanilla HTML/CSS/JS dashboard, certificate automation, and local firewall mitigation.
+          </p>
+          <p>
+            <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+            <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+          </p>
+          <p>⭐ <strong>Project</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🍴 <strong>Code</strong></p>
+          <p>▶ 🔎 <strong>Features</strong></p>
+        </div>
+      </td>
 
-<table width="100%" border="1" cellpadding="16" cellspacing="0">
-  <tr>
-    <td width="25%" align="center" valign="top">
-      <a href="https://github.com/charlescodespace/ip_sec">
-        <h3>🔐 ip_sec</h3>
-      </a>
+      <td align="center" valign="top" width="25%">
+        <div>
+          <p><strong>🚧 Coming Soon</strong></p>
+          <p><strong>Project Title</strong></p>
+          <p>Add your next project here.</p>
+          <p>
+            <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+            <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+          </p>
+          <p>⭐ <strong>0</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🍴 <strong>0</strong></p>
+          <p>▶ ✨ <strong>Features</strong></p>
+        </div>
+      </td>
 
-      <p><strong>Cross-Platform IPsec Automation</strong></p>
-      <p>
-        Centralized IPsec policy management with a Python endpoint agent,
-        FastAPI backend, vanilla HTML/CSS/JS dashboard, certificate automation,
-        and local firewall mitigation.
-      </p>
+      <td align="center" valign="top" width="25%">
+        <div>
+          <p><strong>🚧 Coming Soon</strong></p>
+          <p><strong>Project Title</strong></p>
+          <p>Add your next project here.</p>
+          <p>
+            <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+            <img src="https://img.shields.io/badge/THREADING-FFB000?style=for-the-badge" alt="Threading" />
+          </p>
+          <p>⭐ <strong>0</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🍴 <strong>0</strong></p>
+          <p>▶ ⚡ <strong>Attack Vectors</strong></p>
+        </div>
+      </td>
 
-      <p>
-        <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-      </p>
+      <td align="center" valign="top" width="25%">
+        <div>
+          <p><strong>🚧 Coming Soon</strong></p>
+          <p><strong>Project Title</strong></p>
+          <p>Add your next project here.</p>
+          <p>
+            <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+            <img src="https://img.shields.io/badge/RICH-FFD700?style=for-the-badge" alt="Rich" />
+          </p>
+          <p>⭐ <strong>0</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🍴 <strong>0</strong></p>
+          <p>▶ 🛠 <strong>Modules</strong></p>
+        </div>
+      </td>
+    </tr>
+  </table>
 
-      <p>⭐ <strong>1</strong> &nbsp;&nbsp; 🍴 <strong>0</strong></p>
-      <p>▶ 🔎 <strong>Features</strong></p>
-    </td>
-
-    <td width="25%" align="center" valign="top">
-      <h3>🚧 Coming Soon</h3>
-      <p><strong>Project Title</strong></p>
-      <p>Add your next project here.</p>
-
-      <p>
-        <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-      </p>
-
-      <p>⭐ <strong>0</strong> &nbsp;&nbsp; 🍴 <strong>0</strong></p>
-      <p>▶ ✨ <strong>Features</strong></p>
-    </td>
-
-    <td width="25%" align="center" valign="top">
-      <h3>🚧 Coming Soon</h3>
-      <p><strong>Project Title</strong></p>
-      <p>Add your next project here.</p>
-
-      <p>
-        <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/THREADING-FFB000?style=for-the-badge" />
-      </p>
-
-      <p>⭐ <strong>0</strong> &nbsp;&nbsp; 🍴 <strong>0</strong></p>
-      <p>▶ ⚡ <strong>Attack Vectors</strong></p>
-    </td>
-
-    <td width="25%" align="center" valign="top">
-      <h3>🚧 Coming Soon</h3>
-      <p><strong>Project Title</strong></p>
-      <p>Add your next project here.</p>
-
-      <p>
-        <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/RICH-FFD700?style=for-the-badge" />
-      </p>
-
-      <p>⭐ <strong>0</strong> &nbsp;&nbsp; 🍴 <strong>0</strong></p>
-      <p>▶ 🛠 <strong>Modules</strong></p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-**`🐍 ⚡ BUILT WITH PYTHON ⚡`**
-
+  <br />
+  <strong>🐍 ⚡ BUILT WITH PYTHON ⚡</strong>
 </div>
 
 ---
@@ -221,13 +206,11 @@
 ## 🔗 Connect
 
 <div align="center">
+  <a href="https://github.com/charlescodespace"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub" /></a>
+  <a href="https://instagram.com/ft__charlie"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+  <a href="mailto:charlespinto2004s@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" /></a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/charlescodespace)
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/ft__charlie)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:charlespinto2004s@gmail.com)
-
-*Building software projects · solving real-world problems*
-
+  <p><em>Building software projects · solving real-world problems</em></p>
 </div>
 
 ---
