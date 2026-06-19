@@ -1,160 +1,162 @@
 <div align="center">
 
-<img src="./charles_banner.gif" width="100%" />
+<img src="./charles_banner.gif" width="100%" alt="Charles Banner"/>
 
-# CHARLES
+# Charles
 
-### Full Stack Developer • Software Engineer • Builder
+### Full Stack Developer • Software Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Modern+Software;Full+Stack+Developer;Backend+%26+Cloud+Enthusiast;Turning+Ideas+Into+Products;Code+%E2%80%A2+Build+%E2%80%A2+Innovate+%E2%80%A2+Repeat" />
-
-<br>
-
-> Turning ideas into scalable products and meaningful digital experiences.
+Building scalable applications, AI-powered solutions, and modern web experiences.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=charlescodespace&label=Profile+Views&color=58A6FF&style=flat-square"/>
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charlescodespace)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ft__charlie)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlespinto2004s@gmail.com)
 
 </div>
 
 ---
+
+<div align="center">
 
 ## 👨‍💻 About Me
 
-<div align="center">
+<img src="./charles_terminal.svg" width="750" alt="Charles Terminal"/>
 
-```console
-charles@developer:~$ whoami
+<br>
 
-Charles
+```bash
+> whoami
 
-charles@developer:~$ cat profile.txt
-
-Role      :: Full Stack Developer
-Location  :: Bengaluru, India
-Focus     :: Web Development & Software Engineering
-Learning  :: Cloud • System Design • AI
-Passion   :: Building useful products
-Motto     :: Code. Build. Improve. Repeat.
-
-charles@developer:~$ ls skills/
-
-Java  Python  React  FastAPI
-NodeJS  PostgreSQL  Docker
-AWS  Git  Linux
-
-charles@developer:~$ echo $STATUS
-
-Building the future, one commit at a time 🚀
-
-charles@developer:~$ █
+Name      : Charles
+Role      : Full Stack Developer
+Education : B.E Information Science & Engineering
+Focus     : Software Development & AI
+Languages : Java, Python, JavaScript
+Database  : MySQL, MongoDB
+Goal      : Build impactful products
+Status    : Learning • Building • Growing
 ```
 
 </div>
 
 ---
 
-## ⚡ Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,html,css,react,nodejs,django,fastapi,mysql,postgres,mongodb,docker,kubernetes,aws,gcp,git,github,vscode,postman&perline=7"/>
+## ⚡ Technologies
+
+### Languages
+
+![Java](https://img.shields.io/badge/JAVA-000000?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-000000?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white)
+
+<br>
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/REACT-000000?style=flat&logo=react&logoColor=white)
+
+<br>
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/NODE.JS-000000?style=flat&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-000000?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/DJANGO-000000?style=flat&logo=django&logoColor=white)
+
+<br>
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MYSQL-000000?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-000000?style=flat&logo=mongodb&logoColor=white)
+
+<br>
+
+### Tools
+
+![Git](https://img.shields.io/badge/GIT-000000?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-000000?style=flat&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/POSTMAN-000000?style=flat&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Project
+<div align="center">
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🔮 Placement Prediction System | ML-based web application predicting placement outcomes using Random Forest |
+| 🥔 Potato Disease Detection | Deep Learning project using VGG16 and TensorFlow |
+| ⛓ Blockchain Land Registration | Secure land registration system using Ethereum and Smart Contracts |
+| 🏥 Medical Alerting System | Automated alerting system for healthcare monitoring |
+
+</div>
+
+---
 
 <div align="center">
 
-### 🔐 IPsec Automation Platform
+## 📊 Statistics
 
-Cross-platform IPsec policy management solution featuring:
+<table>
+<tr>
 
-✔ Python Endpoint Agent
+<td width="50%" align="center">
 
-✔ FastAPI Backend
+### Most Used Languages
 
-✔ Automated Certificate Management
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlescodespace&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff"/>
 
-✔ Firewall Mitigation
+</td>
 
-✔ Web Dashboard
+<td width="50%" align="center">
 
-<br>
+### GitHub Stats
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://github-readme-stats.vercel.app/api?username=charlescodespace&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</td>
+
+</tr>
+</table>
+
+### Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=charlescodespace&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"/>
+
+### Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=charlescodespace&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Connect
+
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charlescodespace)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ft__charlie)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlespinto2004s@gmail.com)
 
 <br><br>
 
-<a href="https://github.com/charlescodespace/ip_sec">
-<img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge"/>
-</a>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=charlescodespace&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=charlescodespace&theme=tokyonight&hide_border=true"/>
-
-</div>
+![](https://komarev.com/ghpvc/?username=charlescodespace&color=000000&style=flat-square&label=Profile+Views)
 
 <br>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlescodespace&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🤝 Connect
-
-<div align="center">
-
-<a href="https://github.com/charlescodespace">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://instagram.com/ft__charlie">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:charlespinto2004s@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Philosophy
-
-```text
-Frontend Precision • Backend Logic • Continuous Growth
-```
-
-⚡ Execute • 💡 Innovate • 🔁 Repeat
-
-<br>
-
-> Building software that solves real-world problems.
+⭐ Building software that matters.
 
 </div>
