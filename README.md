@@ -1,10 +1,12 @@
 <div align="center">
-<img 
-  src="C:\Users\charl\Downloads\Github\[ ________ 23% ] Copying by R▲.gif"
-  alt="Welcome animation" 
+
+<img
+  src="https://raw.githubusercontent.com/charlescodespace/charlescodespace/main/assets/welcome.gif"
+  alt="Welcome animation"
+  width="100%"
 />
 
----
+</div>
 
 <div align="center">
 
