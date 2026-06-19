@@ -56,34 +56,91 @@
 ## 🛠 Featured Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="900">
-        <a href="https://github.com/charlescodespace/ip_sec">
-          <h3>🔐 IP Sec</h3>
-        </a>
-        <p><strong>Cross-Platform IPsec Automation and Security Framework</strong></p>
-        <p>
-          Centralized IPsec policy management with a Python endpoint agent, FastAPI backend,
-          vanilla HTML/CSS/JavaScript dashboard, certificate automation, and local firewall mitigation.
-        </p>
-        <p>
-          <code>Python</code>
-          <code>FastAPI</code>
-          <code>JavaScript</code>
-          <code>SQLite</code>
-        </p>
-        <p>
-          • Backend API for devices, policies, logs, and threat events<br>
-          • Agent-side monitoring, policy deployment, and firewall blocking<br>
-          • Certificate generation and platform-aware deployment scripts
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
 
----
+<table>
+  <tr>
+    <td width="25%" valign="top" align="center">
+      <a href="https://github.com/charlescodespace/ip_sec" target="_blank">
+        <h3>🔐 ip_sec</h3>
+      </a>
+
+      <p><strong>Cross-Platform IPsec Automation</strong></p>
+      <p>
+        Centralized IPsec policy management with a Python endpoint agent,
+        FastAPI backend, vanilla HTML/CSS/JS dashboard, certificate automation,
+        and local firewall mitigation.
+      </p>
+
+      <p>
+        <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      </p>
+
+      <p>
+        ⭐ <strong>Project</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🍴 <strong>Code</strong>
+      </p>
+
+      <p>▶ 🔎 <strong>Features</strong></p>
+    </td>
+
+    <td width="25%" valign="top" align="center">
+      <h3>🚧 Coming Soon</h3>
+      <p><strong>Project Title</strong></p>
+      <p>Add your next project here.</p>
+
+      <p>
+        <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      </p>
+
+      <p>
+        ⭐ <strong>0</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🍴 <strong>0</strong>
+      </p>
+
+      <p>▶ ✨ <strong>Features</strong></p>
+    </td>
+
+    <td width="25%" valign="top" align="center">
+      <h3>🚧 Coming Soon</h3>
+      <p><strong>Project Title</strong></p>
+      <p>Add your next project here.</p>
+
+      <p>
+        <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/THREADING-FFB000?style=for-the-badge" />
+      </p>
+
+      <p>
+        ⭐ <strong>0</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🍴 <strong>0</strong>
+      </p>
+
+      <p>▶ ⚡ <strong>Attack Vectors</strong></p>
+    </td>
+
+    <td width="25%" valign="top" align="center">
+      <h3>🚧 Coming Soon</h3>
+      <p><strong>Project Title</strong></p>
+      <p>Add your next project here.</p>
+
+      <p>
+        <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/RICH-FFD700?style=for-the-badge" />
+      </p>
+
+      <p>
+        ⭐ <strong>0</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🍴 <strong>0</strong>
+      </p>
+
+      <p>▶ 🛠 <strong>Modules</strong></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+**`🐍 ⚡ BUILT WITH PYTHON ⚡`**
+
+</div>
 
 ## ⚡ Tech Stack
 
