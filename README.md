@@ -6,9 +6,20 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ft__charlie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charles-pinto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charlespinto2004s@gmail.com) 
 
-## [ TECH STACK ]
+<p align="left">
+  <a href="https://instagram.com/ft__charlie" title="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="42" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/charles-pinto" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="42" alt="LinkedIn" />
+  </a>
+  <a href="mailto:charlespinto2004s@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="42" alt="Email" />
+  </a>
+</p>
+
+## 💻 TECH STACK
 
 ### Coding
 <p align="left">
@@ -62,7 +73,7 @@
   <a href="https://www.postgresql.org/" title="PostgreSQL">
     <img src="https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=316192" height="42" alt="PostgreSQL" />
   </a>
-  <a href="https://www.mysql.com/" title="MySQL">
+  <a href="https://www.mysql.c om/" title="MySQL">
     <img src="https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=4479A1" height="42" alt="MySQL" />
   </a>
   <a href="https://www.mongodb.com/" title="MongoDB">
