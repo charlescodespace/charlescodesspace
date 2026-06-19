@@ -57,10 +57,10 @@
 
 <div align="center">
 
-<table>
+<table width="100%" border="1" cellpadding="16" cellspacing="0">
   <tr>
-    <td width="25%" valign="top" align="center">
-      <a href="https://github.com/charlescodespace/ip_sec" target="_blank">
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/charlescodespace/ip_sec">
         <h3>🔐 ip_sec</h3>
       </a>
 
@@ -76,14 +76,11 @@
         <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
       </p>
 
-      <p>
-        ⭐ <strong>Project</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🍴 <strong>Code</strong>
-      </p>
-
+      <p>⭐ <strong>1</strong> &nbsp;&nbsp; 🍴 <strong>0</strong></p>
       <p>▶ 🔎 <strong>Features</strong></p>
     </td>
 
-    <td width="25%" valign="top" align="center">
+    <td width="25%" align="center" valign="top">
       <h3>🚧 Coming Soon</h3>
       <p><strong>Project Title</strong></p>
       <p>Add your next project here.</p>
@@ -93,14 +90,11 @@
         <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
       </p>
 
-      <p>
-        ⭐ <strong>0</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🍴 <strong>0</strong>
-      </p>
-
+      <p>⭐ <strong>0</strong> &nbsp;&nbsp; 🍴 <strong>0</strong></p>
       <p>▶ ✨ <strong>Features</strong></p>
     </td>
 
-    <td width="25%" valign="top" align="center">
+    <td width="25%" align="center" valign="top">
       <h3>🚧 Coming Soon</h3>
       <p><strong>Project Title</strong></p>
       <p>Add your next project here.</p>
@@ -110,14 +104,11 @@
         <img src="https://img.shields.io/badge/THREADING-FFB000?style=for-the-badge" />
       </p>
 
-      <p>
-        ⭐ <strong>0</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🍴 <strong>0</strong>
-      </p>
-
+      <p>⭐ <strong>0</strong> &nbsp;&nbsp; 🍴 <strong>0</strong></p>
       <p>▶ ⚡ <strong>Attack Vectors</strong></p>
     </td>
 
-    <td width="25%" valign="top" align="center">
+    <td width="25%" align="center" valign="top">
       <h3>🚧 Coming Soon</h3>
       <p><strong>Project Title</strong></p>
       <p>Add your next project here.</p>
@@ -127,10 +118,7 @@
         <img src="https://img.shields.io/badge/RICH-FFD700?style=for-the-badge" />
       </p>
 
-      <p>
-        ⭐ <strong>0</strong> &nbsp;&nbsp; | &nbsp;&nbsp; 🍴 <strong>0</strong>
-      </p>
-
+      <p>⭐ <strong>0</strong> &nbsp;&nbsp; 🍴 <strong>0</strong></p>
       <p>▶ 🛠 <strong>Modules</strong></p>
     </td>
   </tr>
@@ -141,6 +129,8 @@
 **`🐍 ⚡ BUILT WITH PYTHON ⚡`**
 
 </div>
+
+---
 
 ## ⚡ Tech Stack
 
