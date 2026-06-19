@@ -20,11 +20,7 @@
 <div align="center">
   <strong>💻 Full Stack · ⚙️ Software Dev · 🚀 Builder</strong>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=charlescodespace&label=Profile%20Views&color=22d3ee&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/charlescodespace?label=Followers&style=for-the-badge&color=22d3ee" alt="GitHub followers" />
 </div>
-
----
 
 <p align="center">
   <img
