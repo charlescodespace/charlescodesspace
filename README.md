@@ -4,7 +4,6 @@
   <img src="./charles_terminal.svg" alt="Charles terminal intro" width="100%" />
 </p>
 
-
 ## 🌐 Socials:
 
 <p align="left">
