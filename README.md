@@ -1,11 +1,18 @@
+<div align="center">
+  <h1>Hi there, I'm Charles 👋</h1>
+  <p>
+    <samp>Full stack developer focused on clean builds, practical systems, and polished experiences.</samp>
+  </p>
+</div>
+
 <p align="center">
-  <img src="./charles_banner.gif" width="100%"/>
+  <img src="./charles_banner.gif" width="100%" alt="Charles banner" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="48" alt="Python" />
   <samp>Building impactful software and seamless digital experiences.</samp>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="48" alt="Python" />
 </p>
 
 <p align="center">
@@ -16,23 +23,65 @@
 
 **`💻 Full Stack · ⚙️ Software Dev · 🚀 Builder`**
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=charlescodespace&label=Profile%20Views&color=22d3ee&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/charlescodespace?label=Followers&style=for-the-badge&color=22d3ee"/>
+<img src="https://komarev.com/ghpvc/?username=charlescodespace&label=Profile%20Views&color=22d3ee&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/charlescodespace?label=Followers&style=for-the-badge&color=22d3ee" alt="GitHub followers" />
 
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=22d3ee&width=300&lines=Follow+Github+charlescodespace+%5E_%5E"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=22d3ee&width=420&lines=Follow+GitHub+charlescodespace+%5E_%5E;Building+with+purpose+and+consistency;Let's+create+something+great+together"
+    alt="Typing SVG"
+  />
 </p>
 
 ## 👤 About Me
 
-![terminal](./charles_terminal.svg)
+<p align="center">
+  <img src="./charles_terminal.svg" alt="Terminal profile" />
+</p>
+
+<p align="center">
+  <samp>
+    I enjoy turning ideas into useful products, refining the details, and shipping work that feels solid.
+  </samp>
+</p>
+
+---
+
+## 🛠 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="900">
+        <a href="https://github.com/charlescodespace/ip_sec">
+          <h3>🔐 IP Sec</h3>
+        </a>
+        <p><strong>Cross-Platform IPsec Automation and Security Framework</strong></p>
+        <p>
+          Centralized IPsec policy management with a Python endpoint agent, FastAPI backend,
+          vanilla HTML/CSS/JavaScript dashboard, certificate automation, and local firewall mitigation.
+        </p>
+        <p>
+          <code>Python</code>
+          <code>FastAPI</code>
+          <code>JavaScript</code>
+          <code>SQLite</code>
+        </p>
+        <p>
+          • Backend API for devices, policies, logs, and threat events<br>
+          • Agent-side monitoring, policy deployment, and firewall blocking<br>
+          • Certificate generation and platform-aware deployment scripts
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -93,7 +142,6 @@
 ### 👨‍💻 Developer Profile
 
 [![GitHub](https://img.shields.io/badge/GITHUB-OWNER-FF4500?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/charlescodespace)
-
 [![GitHub Followers](https://img.shields.io/github/followers/charlescodespace?style=for-the-badge&logo=github&color=4CAF50&labelColor=0a0a0a)](https://github.com/charlescodespace?tab=followers)
 
 <br>
@@ -102,34 +150,36 @@
   <tr>
     <td align="center">
       <a href="https://github.com/charlescodespace">
-        <img src="https://github.com/charlescodespace.png" width="120px" alt="Charles">
+        <img src="https://github.com/charlescodespace.png" width="120" alt="Charles" />
         <br>
         <sub><b>charlescodespace</b></sub>
       </a>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=charlescodespace&show_icons=true&theme=radical&hide_border=true&count_private=true">
+      <img src="https://github-readme-stats.vercel.app/api?username=charlescodespace&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
     </td>
   </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=charlescodespace&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=charlescodespace&theme=radical&hide_border=true" alt="GitHub streak" />
 
 </div>
 
 ---
+
+<div align="center">
+  <h2>Follow GitHub</h2>
+</div>
 
 ## 🔗 Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/charlescodespace)
-
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/ft__charlie)
-
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:charlespinto2004s@gmail.com)
 
-*Building Software Projects · Solving Real-World Problems*
+*Building software projects · solving real-world problems*
 
 </div>
 
@@ -137,7 +187,7 @@
 
 <div align="center">
   <sub>
-    Frontend Precision • Backend Logic • Endless Innovation
+    Frontend precision • Backend logic • Continuous growth
     <br>
     ⚡ Execute • 💡 Innovate • 🔁 Repeat
   </sub>
