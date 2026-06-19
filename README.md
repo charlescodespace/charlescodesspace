@@ -4,11 +4,11 @@
   <img src="./charles_terminal.svg" alt="Charles terminal intro" width="100%" />
 </p>
 
-## 🌐 Socials:
+## 🌐 SOCIALS
 
 <p align="left">
   <a href="https://instagram.com/ft__charlie" title="Instagram">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="42" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="42" alt="Instagram" />
   </a>
   <a href="https://linkedin.com/in/charles-pinto" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="42" alt="LinkedIn" />
