@@ -123,11 +123,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=charlescodespace&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=charlescodespace&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=charlescodespace&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlescodespace&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000&layout=compact" alt="Most Used Languages" />
 </p>
-
 ---
 
 ## 📈 Contribution Graph
