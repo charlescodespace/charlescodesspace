@@ -1,144 +1,98 @@
-<div align="center">
+<p align="center">
+  <img src="./welcome.gif" alt="Welcome animation" width="100%" />
+</p>
 
-<img
-  src="https://raw.githubusercontent.com/charlescodespace/charlescodespace/main/assets/welcome.gif"
-  alt="Welcome animation"
-  width="100%"
-/>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=E5E7EB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Alexandre+Lopes;Computer+Science+Student;Full-stack+Developer+%7C+Mobile+%7C+UI%2FUX;Building+ideas+into+clean+products" alt="Typing intro" />
+</p>
 
 <div align="center">
 
-<h3>Connect with me</h3>
-
-
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlespinto2004s@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ft__charlie)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/USLLEVMVAUVXI1)
+![Profile Views](https://komarev.com/ghpvc/?username=alexlbnt&color=111827&style=flat-square&label=PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/alexlbnt?style=flat-square&color=111827&labelColor=111827&logo=github&logoColor=white)](https://github.com/alexlbnt)
 
 </div>
 
 ---
-
-<div align="center">
-
-<h2>About Me</h2>
-
-Hello, I'm **Charles** — a Full Stack and Software Developer focused on building scalable software, AI-powered solutions, and modern web applications.
-
-I enjoy transforming ideas into real-world products while maintaining clean architecture, performance, and long-term maintainability.
-
-<br/>
-
-**Full Stack Developer**  
-**Java • Python • JavaScript**  
-**AI & Machine Learning Enthusiast**  
-**Software Development & Problem Solving**
-
-</div>
-
----
-
-<div align="center">
-
-<h2>Technologies</h2>
-
-<h3>Languages</h3>
-
-![Java](https://img.shields.io/badge/JAVA-000000?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-000000?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=javascript&logoColor=white)
-![C](https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-<br/>
-
-<h3>Frontend</h3>
-
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/REACT-000000?style=flat&logo=react&logoColor=white)
-
-<br/>
-
-<h3>Backend</h3>
-
-![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=flat&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FASTAPI-000000?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/DJANGO-000000?style=flat&logo=django&logoColor=white)
-
-<br/>
-
-<h3>Databases</h3>
-
-![MySQL](https://img.shields.io/badge/MYSQL-000000?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MONGODB-000000?style=flat&logo=mongodb&logoColor=white)
-
-<br/>
-
-<h3>Tools</h3>
-
-![Git](https://img.shields.io/badge/GIT-000000?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_CODE-000000?style=flat&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/POSTMAN-000000?style=flat&logo=postman&logoColor=white)
-
-<br/>
-
-<h3>Featured Projects</h3>
-
- 1) Unified Cross-Platform IPsec
- 2) Java-Based Job Portal System  
- 3) Insurance Claim Fraud Detection System
- 4) Blood Banking System
-
-</div>
-
----
-
-<div align="center">
-
-<h2>Statistics</h2>
 
 <table>
-<tr>
-<td width="50%" align="center">
+  <tr>
+    <td width="28%" valign="top">
+      <p align="center">
+        <img src="./github_alexlbnt.jpg" alt="Alexandre Lopes profile picture" width="100%" />
+      </p>
 
-<h4>Most Used Languages</h4>
+      <p align="center">
+        <strong>Alexandre Lopes</strong><br/>
+        <sub>alexlbnt</sub>
+      </p>
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlescodespace&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff"
-/>
+      <p align="center">
+        <sub>Computer Science Student<br/>Full-stack Developer · Mobile · UI/UX</sub>
+      </p>
+    </td>
+    <td width="72%" valign="top">
+      <h2 align="center">Hello, I’m Alexandre</h2>
 
-</td>
+      <p align="center">
+        <b>Computer Science Student</b><br/>
+        Full-stack Developer · Mobile · UI/UX
+      </p>
 
-<td width="50%" align="center">
+      <p align="center">
+        I like building clean, practical interfaces and turning ideas into products that feel simple to use.
+      </p>
 
-<h4>GitHub Stats</h4>
+      <hr/>
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=charlescodespace&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
-/>
+      <h3>About Me</h3>
 
-</td>
-</tr>
+      <ul>
+        <li>Focused on <b>back-end logic</b>, <b>interface design</b>, and <b>mobile-friendly products</b>.</li>
+        <li>Interested in <b>system architecture</b>, <b>UI/UX</b>, and <b>modern web development</b>.</li>
+        <li>Currently learning and building projects that combine <b>performance</b>, <b>clarity</b>, and <b>good design</b>.</li>
+      </ul>
+
+      <h3>Tech Stack</h3>
+
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+      </p>
+
+      <h3>Current Focus</h3>
+
+      <ul>
+        <li>Building polished full-stack projects</li>
+        <li>Improving UI systems and design consistency</li>
+        <li>Learning better architecture patterns</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
-<h3>Contribution Streak</h3>
+---
 
-<img
-src="https://streak-stats.demolab.com?user=charlescodespace&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"
-/>
+<h2 align="center">Featured Projects</h2>
 
-<h3>Contribution Graph</h3>
+<div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=charlescodespace&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Charles's%20Contribution%20Graph"
-width="100%"
-/>
+| Project | Description |
+| --- | --- |
+| `Project One` | Add your first featured project here. |
+| `Project Two` | Add another project with a short one-line summary. |
+| `Project Three` | Use this space for your strongest work. |
+| `Project Four` | Keep the list short and focused. |
 
 </div>
 
@@ -146,12 +100,29 @@ width="100%"
 
 <div align="center">
 
-<h3>Visitor Count</h3>
+<h2>Stats</h2>
 
-![](https://komarev.com/ghpvc/?username=charlescodespace&color=000000&style=flat-square&label=Profile+Views)
+<img src="https://github-readme-stats.vercel.app/api?username=alexlbnt&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
+<br/><br/>
+<img src="https://streak-stats.demolab.com?user=alexlbnt&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats" />
+
+</div>
 
 ---
 
-<sub>⭐️ From <a href="https://github.com/charlescodespace">Charles</a> with ❤️</sub>
+<div align="center">
+
+<h2>Connect</h2>
+
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexlbnt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/)
+[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:your-email@example.com)
 
 </div>
+
+---
+
+<p align="center">
+  <sub><code>Alexandre Lopes · Full-stack Developer · Mobile · UI/UX</code></sub>
+</p>
+
