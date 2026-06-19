@@ -52,12 +52,15 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=charlescodespace&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=charlescodespace&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=charlescodespace&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
 
----
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=charlescodespace&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=charlescodespace&theme=dark&hide_border=true" alt="GitHub streak stats" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=charlescodespace&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
+</p>
 [![](https://komarev.com/ghpvc/?username=charlescodespace&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
