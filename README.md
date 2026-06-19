@@ -72,7 +72,7 @@
   <a href="https://www.postgresql.org/" title="PostgreSQL">
     <img src="https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=316192" height="42" alt="PostgreSQL" />
   </a>
-  <a href="https://www.mysql.c om/" title="MySQL">
+  <a href="https://www.mysql.com/" title="MySQL">
     <img src="https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=4479A1" height="42" alt="MySQL" />
   </a>
   <a href="https://www.mongodb.com/" title="MongoDB">
