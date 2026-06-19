@@ -130,8 +130,8 @@
 
 ---
 
+## 📈 Contribution Graph
+
 <p align="center">
-  <a href="https://visitcount.itsvg.in" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=charlescodespace&style=flat-square&label=PROFILE%20VIEWS&color=000000" alt="Profile Views" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charlescodespace&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
