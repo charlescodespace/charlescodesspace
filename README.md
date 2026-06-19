@@ -1,6 +1,6 @@
 <div align="center">
 <img 
-  src="https://pin.it/5iFZ0eEbH" 
+  src="C:\Users\charl\Downloads\Github\[ ________ 23% ] Copying by R▲.gif"
   alt="Welcome animation" 
 />
 
