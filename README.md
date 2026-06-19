@@ -133,3 +133,5 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=charlescodespace&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+
+<p align="center"><i>"Turning coffee into code and ideas into products."</i></p>
