@@ -10,168 +10,201 @@
 
 ## [ TECH STACK ]
 
-<div align="center">
+### Coding
+<p align="left">
+  <a href="https://www.cprogramming.com/" title="C">
+    <img src="https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=c&logoColor=00599C" alt="C" />
+  </a>
+  <a href="https://isocpp.org/" title="C++">
+    <img src="https://img.shields.io/badge/C++-ffffff?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
+    <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
+    <img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  </a>
+  <a href="https://www.java.com/" title="Java">
+    <img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  </a>
+  <a href="https://www.python.org/" title="Python">
+    <img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  </a>
+</p>
 
-  <table>
-    <tr>
-      <td align="center" width="72">
-        <a href="https://www.cprogramming.com/" title="C">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" height="42" alt="C" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://isocpp.org/" title="C++">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://www.java.com/" title="Java">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42" alt="Java" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://www.python.org/" title="Python">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://git-scm.com/" title="Git">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://github.com/" title="GitHub">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://code.visualstudio.com/" title="VS Code">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="72">
-        <a href="https://nodejs.org/" title="Node.js">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://www.djangoproject.com/" title="Django">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="42" height="42" alt="Django" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://fastapi.tiangolo.com/" title="FastAPI">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://flask.palletsprojects.com/" title="Flask">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="42" height="42" alt="Flask" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://react.dev/" title="React">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://redux.js.org/" title="Redux">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="42" height="42" alt="Redux" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://www.postgresql.org/" title="PostgreSQL">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://www.mysql.com/" title="MySQL">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://www.mongodb.com/" title="MongoDB">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://www.sqlite.org/" title="SQLite">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42" height="42" alt="SQLite" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="72">
-        <a href="https://aws.amazon.com/" title="AWS">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="42" height="42" alt="AWS" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://cloud.google.com/" title="Google Cloud">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="42" height="42" alt="Google Cloud" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://vercel.com/" title="Vercel">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="42" height="42" alt="Vercel" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://www.netlify.com/" title="Netlify">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="42" height="42" alt="Netlify" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://www.docker.com/" title="Docker">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://kubernetes.io/" title="Kubernetes">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="42" height="42" alt="Kubernetes" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://github.com/features/actions" title="GitHub Actions">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="42" height="42" alt="GitHub Actions" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://www.selenium.dev/" title="Selenium">
-          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/selenium.svg" width="42" height="42" alt="Selenium" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://www.postman.com/" title="Postman">
-          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postman.svg" width="42" height="42" alt="Postman" />
-        </a>
-      </td>
-      <td align="center" width="72">
-        <a href="https://swagger.io/" title="Swagger">
-          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/swagger.svg" width="42" height="42" alt="Swagger" />
-        </a>
-      </td>
-    </tr>
-  </table>
+### Frameworks
+<p align="left">
+  <a href="https://nodejs.org/" title="Node.js">
+    <img src="https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+  </a>
+  <a href="https://www.djangoproject.com/" title="Django">
+    <img src="https://img.shields.io/badge/Django-ffffff?style=for-the-badge&logo=django&logoColor=092E20" alt="Django" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI">
+    <img src="https://img.shields.io/badge/FastAPI-ffffff?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  </a>
+  <a href="https://flask.palletsprojects.com/" title="Flask">
+    <img src="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=000000" alt="Flask" />
+  </a>
+  <a href="https://react.dev/" title="React">
+    <img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </a>
+  <a href="https://redux.js.org/" title="Redux">
+    <img src="https://img.shields.io/badge/Redux-ffffff?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux" />
+  </a>
+</p>
 
-</div>
+### Databases
+<p align="left">
+  <a href="https://www.postgresql.org/" title="PostgreSQL">
+    <img src="https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=316192" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.mysql.com/" title="MySQL">
+    <img src="https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  </a>
+  <a href="https://www.mongodb.com/" title="MongoDB">
+    <img src="https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  </a>
+  <a href="https://www.sqlite.org/" title="SQLite">
+    <img src="https://img.shields.io/badge/SQLite-ffffff?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite" />
+  </a>
+</p>
+
+### Cloud & DevOps
+<p align="left">
+  <a href="https://aws.amazon.com/" title="AWS">
+    <img src="https://img.shields.io/badge/AWS-ffffff?style=for-the-badge&logo=amazonwebservices&logoColor=232F3E" alt="AWS" />
+  </a>
+  <a href="https://cloud.google.com/" title="Google Cloud">
+    <img src="https://img.shields.io/badge/Google_Cloud-ffffff?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
+  </a>
+  <a href="https://vercel.com/" title="Vercel">
+    <img src="https://img.shields.io/badge/Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=000000" alt="Vercel" />
+  </a>
+  <a href="https://www.netlify.com/" title="Netlify">
+    <img src="https://img.shields.io/badge/Netlify-ffffff?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />
+  </a>
+  <a href="https://www.docker.com/" title="Docker">
+    <img src="https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  </a>
+  <a href="https://kubernetes.io/" title="Kubernetes">
+    <img src="https://img.shields.io/badge/Kubernetes-ffffff?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
+  </a>
+</p>
+
+### API & Testing Tools
+<p align="left">
+  <a href="https://www.postman.com/" title="Postman">
+    <img src="https://img.shields.io/badge/Postman-ffffff?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+  </a>
+  <a href="https://swagger.io/" title="Swagger">
+    <img src="https://img.shields.io/badge/Swagger-ffffff?style=for-the-badge&logo=swagger&logoColor=85EA2D" alt="Swagger" />
+  </a>
+  <a href="https://www.selenium.dev/" title="Selenium">
+    <img src="https://img.shields.io/badge/Selenium-ffffff?style=for-the-badge&logo=selenium&logoColor=43B02A" alt="Selenium" />
+  </a>
+</p>## [ TECH STACK ]
+
+### Coding
+<p align="left">
+  <a href="https://www.cprogramming.com/" title="C">
+    <img src="https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=c&logoColor=00599C" alt="C" />
+  </a>
+  <a href="https://isocpp.org/" title="C++">
+    <img src="https://img.shields.io/badge/C++-ffffff?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
+    <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
+    <img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  </a>
+  <a href="https://www.java.com/" title="Java">
+    <img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  </a>
+  <a href="https://www.python.org/" title="Python">
+    <img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  </a>
+</p>
+
+### Frameworks
+<p align="left">
+  <a href="https://nodejs.org/" title="Node.js">
+    <img src="https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+  </a>
+  <a href="https://www.djangoproject.com/" title="Django">
+    <img src="https://img.shields.io/badge/Django-ffffff?style=for-the-badge&logo=django&logoColor=092E20" alt="Django" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI">
+    <img src="https://img.shields.io/badge/FastAPI-ffffff?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  </a>
+  <a href="https://flask.palletsprojects.com/" title="Flask">
+    <img src="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=000000" alt="Flask" />
+  </a>
+  <a href="https://react.dev/" title="React">
+    <img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </a>
+  <a href="https://redux.js.org/" title="Redux">
+    <img src="https://img.shields.io/badge/Redux-ffffff?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux" />
+  </a>
+</p>
+
+### Databases
+<p align="left">
+  <a href="https://www.postgresql.org/" title="PostgreSQL">
+    <img src="https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=316192" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.mysql.com/" title="MySQL">
+    <img src="https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  </a>
+  <a href="https://www.mongodb.com/" title="MongoDB">
+    <img src="https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  </a>
+  <a href="https://www.sqlite.org/" title="SQLite">
+    <img src="https://img.shields.io/badge/SQLite-ffffff?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite" />
+  </a>
+</p>
+
+### Cloud & DevOps
+<p align="left">
+  <a href="https://aws.amazon.com/" title="AWS">
+    <img src="https://img.shields.io/badge/AWS-ffffff?style=for-the-badge&logo=amazonwebservices&logoColor=232F3E" alt="AWS" />
+  </a>
+  <a href="https://cloud.google.com/" title="Google Cloud">
+    <img src="https://img.shields.io/badge/Google_Cloud-ffffff?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
+  </a>
+  <a href="https://vercel.com/" title="Vercel">
+    <img src="https://img.shields.io/badge/Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=000000" alt="Vercel" />
+  </a>
+  <a href="https://www.netlify.com/" title="Netlify">
+    <img src="https://img.shields.io/badge/Netlify-ffffff?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />
+  </a>
+  <a href="https://www.docker.com/" title="Docker">
+    <img src="https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  </a>
+  <a href="https://kubernetes.io/" title="Kubernetes">
+    <img src="https://img.shields.io/badge/Kubernetes-ffffff?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
+  </a>
+</p>
+
+### API & Testing Tools
+<p align="left">
+  <a href="https://www.postman.com/" title="Postman">
+    <img src="https://img.shields.io/badge/Postman-ffffff?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+  </a>
+  <a href="https://swagger.io/" title="Swagger">
+    <img src="https://img.shields.io/badge/Swagger-ffffff?style=for-the-badge&logo=swagger&logoColor=85EA2D" alt="Swagger" />
+  </a>
+  <a href="https://www.selenium.dev/" title="Selenium">
+    <img src="https://img.shields.io/badge/Selenium-ffffff?style=for-the-badge&logo=selenium&logoColor=43B02A" alt="Selenium" />
+  </a>
+</p>
 ---
 
 ## 📊 GitHub Stats
