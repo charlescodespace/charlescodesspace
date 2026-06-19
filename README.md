@@ -1,128 +1,21 @@
-<p align="center">
-  <img src="./welcome.gif" alt="Welcome animation" width="100%" />
-</p>
+# 💫 About Me:
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=E5E7EB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Alexandre+Lopes;Computer+Science+Student;Full-stack+Developer+%7C+Mobile+%7C+UI%2FUX;Building+ideas+into+clean+products" alt="Typing intro" />
+  <img src="./charles_terminal.svg" alt="Charles terminal intro" width="100%" />
 </p>
 
-<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=alexlbnt&color=111827&style=flat-square&label=PROFILE+VIEWS)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/alexlbnt?style=flat-square&color=111827&labelColor=111827&logo=github&logoColor=white)](https://github.com/alexlbnt)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ft__charlie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charles-pinto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charlespinto2004s@gmail.com) 
 
-</div>
-
----
-
-<table>
-  <tr>
-    <td width="28%" valign="top">
-      <p align="center">
-        <img src="./github_alexlbnt.jpg" alt="Alexandre Lopes profile picture" width="100%" />
-      </p>
-
-      <p align="center">
-        <strong>Alexandre Lopes</strong><br/>
-        <sub>alexlbnt</sub>
-      </p>
-
-      <p align="center">
-        <sub>Computer Science Student<br/>Full-stack Developer · Mobile · UI/UX</sub>
-      </p>
-    </td>
-    <td width="72%" valign="top">
-      <h2 align="center">Hello, I’m Alexandre</h2>
-
-      <p align="center">
-        <b>Computer Science Student</b><br/>
-        Full-stack Developer · Mobile · UI/UX
-      </p>
-
-      <p align="center">
-        I like building clean, practical interfaces and turning ideas into products that feel simple to use.
-      </p>
-
-      <hr/>
-
-      <h3>About Me</h3>
-
-      <ul>
-        <li>Focused on <b>back-end logic</b>, <b>interface design</b>, and <b>mobile-friendly products</b>.</li>
-        <li>Interested in <b>system architecture</b>, <b>UI/UX</b>, and <b>modern web development</b>.</li>
-        <li>Currently learning and building projects that combine <b>performance</b>, <b>clarity</b>, and <b>good design</b>.</li>
-      </ul>
-
-      <h3>Tech Stack</h3>
-
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-      </p>
-
-      <h3>Current Focus</h3>
-
-      <ul>
-        <li>Building polished full-stack projects</li>
-        <li>Improving UI systems and design consistency</li>
-        <li>Learning better architecture patterns</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=flat&logo=Adobe%20Fonts&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=charlescodespace&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=charlescodespace&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=charlescodespace&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=charlescodespace&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h2 align="center">Featured Projects</h2>
-
-<div align="center">
-
-| Project | Description |
-| --- | --- |
-| `Project One` | Add your first featured project here. |
-| `Project Two` | Add another project with a short one-line summary. |
-| `Project Three` | Use this space for your strongest work. |
-| `Project Four` | Keep the list short and focused. |
-
-</div>
-
----
-
-<div align="center">
-
-<h2>Stats</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=alexlbnt&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
-<br/><br/>
-<img src="https://streak-stats.demolab.com?user=alexlbnt&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats" />
-
-</div>
-
----
-
-<div align="center">
-
-<h2>Connect</h2>
-
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexlbnt)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:your-email@example.com)
-
-</div>
-
----
-
-<p align="center">
-  <sub><code>Alexandre Lopes · Full-stack Developer · Mobile · UI/UX</code></sub>
-</p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
