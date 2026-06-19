@@ -173,9 +173,18 @@
 ---
 
 <div align="center">
-  <sub>
-    Frontend precision • Backend logic • Continuous growth
-    <br>
-    ⚡ Execute • 💡 Innovate • 🔁 Repeat
-  </sub>
+  <p>
+    <samp>
+      <font color="#22d3ee">Frontend precision</font> •
+      <font color="#a78bfa">Backend logic</font> •
+      <font color="#f472b6">Continuous growth</font>
+    </samp>
+  </p>
+  <p>
+    <samp>
+      <font color="#22d3ee">⚡ Execute</font> •
+      <font color="#f59e0b">💡 Innovate</font> •
+      <font color="#22c55e">🔁 Repeat</font>
+    </samp>
+  </p>
 </div>
