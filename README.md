@@ -135,3 +135,7 @@
 </p>
 
 <p align="center"><i>"Turning coffee into code and ideas into products."</i></p>
+
+
+
+<p align="center"><img src="./- Find & Share on GIPHY.gif" alt="System Failure GIF" width="100%" /></p>
